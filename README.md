@@ -13,3 +13,6 @@ If anyone would like to contribute to the project, please feel free to do so. Fe
   1. Inventory
   2. Complete interaction with trees
   3. Other things
+
+## Screenshots:
+<img src="game_screenshot.jpg">
